@@ -52,9 +52,9 @@
 
 .floating-wpp .floating-wpp-popup.active {
     padding: 0 12px 12px 12px;
-    width: 260px;
+    width: 100px;
     height: auto;
-    bottom: 82px;
+    bottom: 72px;
     opacity: 1;
 }
 
@@ -84,7 +84,7 @@
 
 .floating-wpp .floating-wpp-input-message {
     background-color: white;
-    margin: 10px -15px -15px -15px;
+    margin: 8px -15px -15px -15px;
     padding: 0 15px;
     display: flex;
     align-items: center;

@@ -1,21 +1,2 @@
-big-font {
-    font-size: 120px;
-}
 
-@media only screen and (max-width: 400px) {
-    big-font {
-        font-size: 50px;
-    }
-}
-
-
-margin-size {
-    margin-bottom: 30px;
-}
-
-@media only screen and (max-width: 400px) {
-    margin-size {
-        margin-bottom: 15px;
-    }
-}
 
